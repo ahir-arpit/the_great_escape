@@ -40,4 +40,4 @@
 -   `lib/main.dart`: App entry point and controller logic.
 
 ## License
-This project is licensed under the MIT License.
+This project is only for educational purposes.
