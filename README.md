@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-# the_great_escape
- first flutter project
- 
-=======
-# Rana Jii - Smart Car Controller
 
-**Rana Jii** is a premium Flutter-based controller app designed for ESP8266/ESP32 based smart cars.
 
-![Controller Preview](assets/futuristic_controller_ui.png)
+## the_great_escape
 
 ## Features
 -   **Dual Mode Control**: Joystick and D-Pad navigation.
@@ -15,7 +8,6 @@
 -   **Safety Systems**: Auto-blocking of forward movement when obstacles are detected.
 -   **Dynamic UI**: Beautiful dark mode interface with neon accents and animations.
 -   **Speed Control**: Adjustable speed slider (0-100%).
->>>>>>> 74e834f (Renamed main.dart to arpit_controller.dart and updated README)
 
 ## Getting Started
 
@@ -45,8 +37,7 @@
 5.  Use the arrow keys or joystick to drive!
 
 ## File Structure
--   `lib/arpit_controller.dart`: Main controller logic and UI.
--   `lib/main.dart`: App entry point.
+-   `lib/main.dart`: App entry point and controller logic.
 
 ## License
 This project is licensed under the MIT License.
